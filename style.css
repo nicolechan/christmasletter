@@ -171,6 +171,9 @@ h2 {
 		width:100%;
 		position:static;
 		margin:10px;
+	}
+	
+	div#sidebar div {
 		font-size:40pt;
 	}
 	
