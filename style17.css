@@ -178,7 +178,7 @@ h1 {
 }
 
 .caption strong {
-	font-size:26pt;
+	font-size:30pt;
 }
 
 div#container {
@@ -203,7 +203,7 @@ h1 {
 @media screen and (min-device-width:0px) and (max-device-width:767px) {
 /* iPHONE */
 .caption {
-	font-size:30pt;
+	font-size:32pt;
 }
 
 .caption .accounts {
@@ -214,6 +214,12 @@ h1 {
 
 .caption .social {
 	padding:0px 25px 10px 0px;
+	font-size:20pt;
+	line-height:50px;
+}
+
+.caption .social img {
+	width:50px;
 }
 
 .caption strong {
@@ -225,14 +231,13 @@ div#container {
 }
 
 #header {
-	line-height:32pt;
-	font-size:20pt;
+	line-height:44pt;
+	font-size:32pt;
 }
 
 h1 {
 	line-height:90pt;
 	font-size:82pt;
-	color:#66F;
 }
 
 .item {
