@@ -152,7 +152,7 @@ div#container {
 }
 
 h1 {
-	line-height:65pt;
+	line-height:85pt;
 }
 
 .item {
@@ -175,6 +175,10 @@ h1 {
 
 .caption .social {
 	padding:0px 25px 10px 0px;
+}
+
+.caption strong {
+	font-size:26pt;
 }
 
 div#container {
