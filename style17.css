@@ -208,12 +208,12 @@ h1 {
 
 .caption .accounts {
 	height:100%;
-	max-height:79px;
+	max-height:84px;
 	overflow:hidden;
 }
 
 .caption .social {
-	padding:0px 25px 10px 0px;
+	padding:0px 25px 25px 0px;
 	font-size:20pt;
 	line-height:50px;
 }
@@ -238,6 +238,10 @@ div#container {
 h1 {
 	line-height:90pt;
 	font-size:82pt;
+}
+
+.image {
+	border:20px solid white;
 }
 
 .item {
