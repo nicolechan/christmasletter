@@ -82,6 +82,7 @@ body {
 h1 {
 	font-family:'Gloria Hallelujah',cursive;
 	font-size:60pt;
+	color:#C66;
 }
 
 h1 a {
@@ -124,7 +125,6 @@ div#container {
 
 h1 {
 	line-height:65pt;
-	color:#C66;
 }
 
 .item {
