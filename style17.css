@@ -205,12 +205,11 @@ h1 {
 .caption {
 	font-size:32pt;
 	border:50px solid white;
-	color:#00F;
 }
 
 .caption .accounts {
 	height:100%;
-	max-height:112px;
+	max-height:115px;
 	overflow:hidden;
 	margin:30px 0px 0px 0px;
 }
