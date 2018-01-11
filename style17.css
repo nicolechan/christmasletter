@@ -204,6 +204,8 @@ h1 {
 /* iPHONE */
 .caption {
 	font-size:32pt;
+	border:50px solid white;
+	color:#3F3;
 }
 
 .caption .accounts {
@@ -239,10 +241,6 @@ div#container {
 h1 {
 	line-height:90pt;
 	font-size:82pt;
-}
-
-.image {
-	border:20px solid white;
 }
 
 .item {
