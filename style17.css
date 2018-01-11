@@ -203,21 +203,21 @@ h1 {
 @media screen and (min-device-width:0px) and (max-device-width:767px) {
 /* iPHONE */
 .caption {
-	font-size:20pt;
+	font-size:30pt;
 }
 
 .caption .accounts {
 	height:100%;
-	max-height:32px;
+	max-height:79px;
 	overflow:hidden;
 }
 
 .caption .social {
-	padding:0px 25px 0px 0px;
+	padding:0px 25px 10px 0px;
 }
 
 .caption strong {
-	font-size:26pt;
+	font-size:45pt;
 }
 
 div#container {
@@ -230,8 +230,9 @@ div#container {
 }
 
 h1 {
-	line-height:80pt;
-	font-size:72pt;
+	line-height:90pt;
+	font-size:82pt;
+	color:#66F;
 }
 
 .item {
